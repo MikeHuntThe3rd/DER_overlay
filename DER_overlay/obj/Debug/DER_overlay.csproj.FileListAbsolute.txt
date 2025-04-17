@@ -1,0 +1,22 @@
+C:\Users\simak_nud1nbw\source\repos\DER_overlay\bin\Debug\DER_overlay.exe.config
+C:\Users\simak_nud1nbw\source\repos\DER_overlay\bin\Debug\DER_overlay.exe
+C:\Users\simak_nud1nbw\source\repos\DER_overlay\bin\Debug\DER_overlay.pdb
+C:\Users\simak_nud1nbw\source\repos\DER_overlay\obj\Debug\DER_overlay.csproj.AssemblyReference.cache
+C:\Users\simak_nud1nbw\source\repos\DER_overlay\obj\Debug\DER_overlay.Form1.resources
+C:\Users\simak_nud1nbw\source\repos\DER_overlay\obj\Debug\DER_overlay.Properties.Resources.resources
+C:\Users\simak_nud1nbw\source\repos\DER_overlay\obj\Debug\DER_overlay.csproj.GenerateResource.cache
+C:\Users\simak_nud1nbw\source\repos\DER_overlay\obj\Debug\DER_overlay.csproj.CoreCompileInputs.cache
+C:\Users\simak_nud1nbw\source\repos\DER_overlay\obj\Debug\DER_overlay.exe
+C:\Users\simak_nud1nbw\source\repos\DER_overlay\obj\Debug\DER_overlay.pdb
+C:\Users\simak_nud1nbw\OneDrive\Asztali gép\DER_overlay\bin\Debug\DER_overlay.exe.config
+C:\Users\simak_nud1nbw\OneDrive\Asztali gép\DER_overlay\bin\Debug\DER_overlay.exe
+C:\Users\simak_nud1nbw\OneDrive\Asztali gép\DER_overlay\bin\Debug\DER_overlay.pdb
+C:\Users\simak_nud1nbw\OneDrive\Asztali gép\DER_overlay\obj\Debug\DER_overlay.csproj.AssemblyReference.cache
+C:\Users\simak_nud1nbw\OneDrive\Asztali gép\DER_overlay\obj\Debug\DER_overlay.Form1.resources
+C:\Users\simak_nud1nbw\OneDrive\Asztali gép\DER_overlay\obj\Debug\DER_overlay.Properties.Resources.resources
+C:\Users\simak_nud1nbw\OneDrive\Asztali gép\DER_overlay\obj\Debug\DER_overlay.csproj.GenerateResource.cache
+C:\Users\simak_nud1nbw\OneDrive\Asztali gép\DER_overlay\obj\Debug\DER_overlay.csproj.CoreCompileInputs.cache
+C:\Users\simak_nud1nbw\OneDrive\Asztali gép\DER_overlay\obj\Debug\DER_over.78550568.Up2Date
+C:\Users\simak_nud1nbw\OneDrive\Asztali gép\DER_overlay\obj\Debug\DER_overlay.exe
+C:\Users\simak_nud1nbw\OneDrive\Asztali gép\DER_overlay\obj\Debug\DER_overlay.pdb
+C:\Users\simak_nud1nbw\OneDrive\Asztali gép\DER_overlay\bin\Debug\Gma.System.MouseKeyHook.pdb
