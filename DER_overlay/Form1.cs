@@ -39,14 +39,7 @@ namespace DER_overlay
                 over.rev();
             }
         }
-
-        private void GlobalHook_KeyDown(object sender, KeyEventArgs e)
-        {
-            if (e.KeyCode == Keys.F)
-            {
-                over.rev();
-            }
-        }
+        
         private void Form1_FormClosing(object sender, FormClosingEventArgs e)
         {
             gma_hook.KeyDown -= Gma_hook_KeyDown;
