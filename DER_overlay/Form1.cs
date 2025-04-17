@@ -29,8 +29,8 @@ namespace DER_overlay
         {
             gma_hook = Hook.GlobalEvents();
             gma_hook.KeyDown += Gma_hook_KeyDown;
-            over.Show();
-            this.Location = new Point(10000, 10);
+            over.ShowDialog();
+
         }
 
         private void Gma_hook_KeyDown(object sender, KeyEventArgs e)
